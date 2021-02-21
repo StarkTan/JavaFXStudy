@@ -8,4 +8,5 @@
     lesson_006: screen类的使用 获取屏幕特性(高，宽，像素密度)<br/>
     lesson_007: scene类，和两个小知识（修改图标和打开网页）<br/>
     lesson_008: Group容器的使用<br/>
+    lesson_009: Button按钮以及简单介绍设置背景颜色和外边框等问题<br/>
 ##
