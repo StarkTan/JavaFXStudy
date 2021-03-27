@@ -12,4 +12,5 @@
     lesson_010: 双击事件和检测键盘按键<br/>
     lesson_011: 设置快捷键监听<br/>
     lesson_012: 输入框，密码框，标签，实用技术<br/>
+    lesson_013: AnchorPanel布局类<br/>
 ##
