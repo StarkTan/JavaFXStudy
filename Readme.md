@@ -9,4 +9,5 @@
     lesson_007: scene类，和两个小知识（修改图标和打开网页）<br/>
     lesson_008: Group容器的使用<br/>
     lesson_009: Button按钮以及简单介绍设置背景颜色和外边框等问题<br/>
+    lesson_010: 双击事件和检测键盘按键
 ##
