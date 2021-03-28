@@ -14,4 +14,5 @@
     lesson_012: 输入框，密码框，标签，实用技术<br/>
     lesson_013: AnchorPanel布局类<br/>
     lesson_014: HBOX和VBOX<br/>
+    lesson_015: setManager setVisible setOpacity<br/>
 ##
