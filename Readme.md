@@ -15,4 +15,5 @@
     lesson_013: AnchorPanel布局类<br/>
     lesson_014: HBOX和VBOX<br/>
     lesson_015: setManager setVisible setOpacity<br/>
+    lesson_016: BorderPane 布局类使用<br/>
 ##
