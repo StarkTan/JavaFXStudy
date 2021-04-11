@@ -23,4 +23,5 @@
     lesson_021: TilePane 布局类使用<br/>
     lesson_022: DialogPane 类和 ScheduledService 多任务的简单使用<br/>
     lesson_024: 简单的登录界面,setUserData<br/>
+    lesson_025: Hyperlink简单使用<br/>
 ##
