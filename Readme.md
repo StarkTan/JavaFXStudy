@@ -24,4 +24,5 @@
     lesson_022: DialogPane 类和 ScheduledService 多任务的简单使用<br/>
     lesson_024: 简单的登录界面,setUserData<br/>
     lesson_025: Hyperlink简单使用<br/>
+    lesson_026: MenuBar,Menu,MenuItem 菜单栏使用<br/>
 ##

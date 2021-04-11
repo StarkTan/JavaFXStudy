@@ -54,6 +54,11 @@ public class Main extends Application {
             play();
         });
 
+        KeyCombination kc5 = KeyCombination.valueOf("alt+k"); //此方式容易发生冲突无反应
+        Mnemonic mnemonic5 = new Mnemonic(b1,kc5);
+        scene.addMnemonic(mnemonic5);
+
+
         primaryStage.setScene(scene);
         primaryStage.setTitle("JavaFX");
         primaryStage.setHeight(600);
