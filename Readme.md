@@ -26,4 +26,5 @@
     lesson_025: Hyperlink简单使用<br/>
     lesson_026: MenuBar,Menu,MenuItem 菜单栏使用<br/>
     lesson_027: 菜单栏多选,单选,分隔符,子菜单<br/>
+    lesson_028: 菜单栏: CustomMenuItem,MenuButton,SplitMenuButton(右键菜单)<br/>
 ##

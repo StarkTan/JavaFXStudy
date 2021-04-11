@@ -41,6 +41,9 @@ public class Main extends Application {
         menu1.setOnHidden(event -> {
             System.out.println("menuItem1.setOnHidden");
         });
+        menu1.setOnMenuValidation(event -> { //监听快捷键键响应
+            System.out.println("menuItem1.setOnMenuValidation");
+        });
         MenuItem menuItem2 = new MenuItem("item2");
         menuItem2.setOnAction(event -> {
             System.out.println("menuItem2.setOnAction");
