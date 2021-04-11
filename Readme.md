@@ -21,4 +21,5 @@
     lesson_019: StackPane 布局类使用<br/>
     lesson_020: TextFlow 布局类使用<br/>
     lesson_021: TilePane 布局类使用<br/>
+    lesson_022: DialogPane 类和 ScheduledService 多任务的简单使用<br/>
 ##
