@@ -28,6 +28,7 @@
     lesson_027: 菜单栏多选,单选,分隔符,子菜单<br/>
     lesson_028: 菜单栏: CustomMenuItem,MenuButton,SplitMenuButton(右键菜单)<br/>
     lesson_051: JavaFX 绑定: PropertyChangeSupport 简单使用<br/>
+    lesson_052: JavaFX 绑定: 属性绑定类使用
     lesson_109: 多任务 Task类<br/>
     
 ##
