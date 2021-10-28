@@ -31,5 +31,6 @@
     lesson_052: JavaFX 绑定: 属性绑定类使用
     lesson_082: ListView 组件基本使用
     lesson_109: 多任务 Task类<br/>
+    lesson_110: 多任务 Service类<br/>
     
 ##
