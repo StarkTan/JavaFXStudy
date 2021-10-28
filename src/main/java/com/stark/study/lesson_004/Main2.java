@@ -42,6 +42,6 @@ public class Main2 extends Application {
         s5.initStyle(StageStyle.UTILITY); // 客户区背景与装饰统一,有平台装饰
         s5.show();
 
-        Platform.exit(); // 平台工具，关闭任务
+        //Platform.exit(); // 平台工具，关闭任务
     }
 }
